@@ -7,11 +7,7 @@
   - Git
   - Gatsby
   - Expo
-  - TypeScrip
+  - TypeScript
   - Wordpress
+  - WooCommerce
 - 📫 Get in contact: kaisa.penna@gmail.com
-
-<!---
-PennaPenna/PennaPenna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
